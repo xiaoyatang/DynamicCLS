@@ -4,7 +4,7 @@ A lightweight and efficient dynamic-scale transformer model, especially suitable
 This paper was accepted by MIDL 2025 as a short paper. Feel free to check more details in our 📄 Paper
 
 📌 Check out our paper:  
-**[Dynamic Scale for Transformer]([https://openreview.net/pdf?id=vWkjFvYUws])**  
+**[Dynamic Scale for Transformer](https://openreview.net/pdf?id=vWkjFvYUws)**  
 
 ---
 
