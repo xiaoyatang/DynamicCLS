@@ -7,6 +7,7 @@ This paper was accepted by MIDL 2025 as a short paper. Feel free to check more d
 **[Dynamic Scale for Transformer](https://openreview.net/pdf?id=vWkjFvYUws)**  
 
 ---
+To reproduce our results on the PhysioNet2020 Challenge data, you may need to download their data from their **[website](https://moody-challenge.physionet.org/2020/)** .
 ## 🛠 Environment Setup
 
 To run our model, please create the conda environment using the provided `environment.yml`:
