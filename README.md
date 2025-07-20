@@ -11,7 +11,7 @@ Our model is built upon the champion **['prna'](https://www.cinc.org/archives/20
 
 To reproduce our results on the PhysioNet2020 Challenge data, you need to download their data from their **[website](https://moody-challenge.physionet.org/2020/)** , **OR** follow the instructions below. 
 
-This model is an update version of a Three-stage transformer in another paper of us. You can also refer to our repository **[website](https://moody-challenge.physionet.org/2020/)**.
+This model is an updated version of a Three-stage transformer in another paper by us. You can also refer to our repository **[3stageFormer](https://github.com/xiaoyatang/3stageFormer.git)**.
 
 
 ### 📁 `feats` Directory Setup. Step 1: Download Required Files(this step is to prepare necessary files used by 'prna')
