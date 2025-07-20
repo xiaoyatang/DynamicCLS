@@ -13,6 +13,8 @@ To reproduce our results on the PhysioNet2020 Challenge data, you need to downlo
 
 This model is an updated version of a Three-stage transformer in another paper by us. You can also refer to our repository **[3stageFormer](https://github.com/xiaoyatang/3stageFormer.git)**.
 
+Built upon the Three-stage transformer, we implement a dynamic receptive field in 'model.py'. Other settings remain the same. 
+
 
 ### 📁 `feats` Directory Setup. Step 1: Download Required Files(this step is to prepare necessary files used by 'prna')
 
